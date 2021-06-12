@@ -1,0 +1,1113 @@
+[
+    {
+        "place_id": "1",
+        "place_name": "Tomb of Amr bin Al-Aas",
+        "place_address": "Al Abageyah, El-Khalifa",
+        "place_city": "Cairo Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 30.027480,
+            "lng": 31.251900
+        }
+    },
+    {
+        "place_id": "2",
+        "place_name": "Mosque of Amr bin Al-Aas",
+        "place_address": "Ad Deyorah, Old Cairo",
+        "place_city": "Cairo Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 30.015990,
+            "lng": 31.233580
+        }
+    },
+    {
+        "place_id": "3",
+        "place_name": "Sidi Shebel Mosque by Muhammad bin Al-Fadl bin Al-Abbas bin Abdul Muttalib",
+        "place_address": "Al Dab, El-Shohada City, Shuhada",
+        "place_city": "Menofia Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 30.593530,
+            "lng": 30.901080
+        }
+    },
+    {
+        "place_id": "4",
+        "place_name": "Mosque of Sidi Uqba bin Amer in the cemetery of Sidi Uqba",
+        "place_address": "Al Abageyah, El-Khalifa",
+        "place_city": "Cairo Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 30.027480,
+            "lng": 31.251900
+        }
+    },
+    {
+        "place_id": "5",
+        "place_name": "Al Sayeda Zainab Mosque",
+        "place_address": "Al Sayeda Zainab Square",
+        "place_city": "Cairo Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 30.032420,
+            "lng": 31.241780
+        }
+    },
+    {
+        "place_id": "6",
+        "place_name": "Sayyida Sakina Mosque",
+        "place_address": "Al Abageyah, El-Khalifa",
+        "place_city": "Cairo Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 30.027480,
+            "lng": 31.251900
+        }
+    },
+    {
+        "place_id": "7",
+        "place_name": "El Sayeda Eisha Mosque",
+        "place_address": "Mrs. Aisha Square, Mrs. Aisha",
+        "place_city": "Cairo Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 30.0245494,
+            "lng": 31.2568504
+        }
+    },
+    {
+        "place_id": "8",
+        "place_name": "Masjid AlSayyida Nafeesah",
+        "place_address": "Al Abageyah, El-Khalifa",
+        "place_city": "Cairo Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 30.022491,
+            "lng": 31.2499502
+        }
+    },
+    {
+        "place_id": "9",
+        "place_name": "Mosque of Ibn Tulun",
+        "place_address": "Tolon, El-Sayeda Zainab",
+        "place_city": "Cairo Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 30.0286956,
+            "lng": 31.2472054
+        }
+    },
+    {
+        "place_id": "10",
+        "place_name": "Al-Azhar Mosque",
+        "place_address": "El-Darb El-Ahmar",
+        "place_city": "Cairo Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 30.0456926,
+            "lng": 31.2604964
+        }
+    },
+    {
+        "place_id": "11",
+        "place_name": "Masjid Al Hakim",
+        "place_address": "154 Al Moez Ldin Allah Al Fatmi, El-Gamaleya",
+        "place_city": "Cairo Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 30.0545503,
+            "lng": 31.2613204
+        }
+    },
+    {
+        "place_id": "12",
+        "place_name": "Al-Rifa'i Mosque",
+        "place_address": "El-Refaey, El-Darb El-Ahmar",
+        "place_city": "Cairo Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 30.0327137,
+            "lng": 31.2548142
+        }
+    },
+    {
+        "place_id": "13",
+        "place_name": "Masjid Al-Aqmar",
+        "place_address": "Al Moez Ldin Allah Al Fatmi, El-Gamaleya, El Gamaliya",
+        "place_city": "Cairo Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 30.051574,
+            "lng": 31.2597469
+        }
+    },
+    {
+        "place_id": "14",
+        "place_name": "El Nabi Daniel Mosque",
+        "place_address": "21 Al Naby Danyal, Kom Ad Dakah Gharb, Al Attarin",
+        "place_city": "Alexandria Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 31.1948662,
+            "lng": 29.9002509
+        }
+    },
+    {
+        "place_id": "15",
+        "place_name": "Al-Tartoushi Mosque",
+        "place_address": "Al Balqatreyah, Qesm Al Gomrok",
+        "place_city": "Alexandria Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 31.1920516,
+            "lng": 29.8842103
+        }
+    },
+    {
+        "place_id": "16",
+        "place_name": "Sidi Beshr Mosque Charity Association",
+        "place_address": "Sidi Beshr Bahri, Qesm Al Montazah",
+        "place_city": "Alexandria Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 31.2617527,
+            "lng": 29.9830225
+        }
+    },
+    {
+        "place_id": "17",
+        "place_name": "Minister's door",
+        "place_address": "Bab Al-Farah, Al-Darb Al-Ahmar",
+        "place_city": "Cairo Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 30.0369988,
+            "lng": 31.264034
+        }
+    },
+    {
+        "place_id": "18",
+        "place_name": "Al Zahir Baybars Mosque",
+        "place_address": "El-Zaher Square, As Sakakeni, Daher",
+        "place_city": "Cairo Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 30.0626389,
+            "lng": 31.2608373
+        }
+    },
+    {
+        "place_id": "19",
+        "place_name": "Mosque and Khanqah of Shaykhu",
+        "place_address": "Toulon, Sayeda Zeinab",
+        "place_city": "Cairo Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 30.0304811,
+            "lng": 31.2499119
+        }
+    },
+    {
+        "place_id": "20",
+        "place_name": "Aslam al-Selahdar Mosque",
+        "place_address": "Haret Al-Nabawyah, Al-Darb Al-Ahmar",
+        "place_city": "Cairo Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 30.0408351,
+            "lng": 31.2598719
+        }
+    },
+    {
+        "place_id": "21",
+        "place_name": "Mosque-Madrassa of Sultan Hassan",
+        "place_address": "El-Darb El-Ahmar, El-Khalifa",
+        "place_city": "Cairo Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 30.0322837,
+            "lng": 31.2539817
+        }
+    },
+    {
+        "place_id": "22",
+        "place_name": "Mosque and Madrassa of Umm Sultan Sha'aban",
+        "place_address": "Mazhar Ln, El-Darb El-Ahmar",
+        "place_city": "Cairo Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 30.0371891,
+            "lng": 31.257363
+        }
+    },
+    {
+        "place_id": "23",
+        "place_name": "Khanqah-Mosque of al-Nasir Faraj ibn Barquq",
+        "place_address": "El-Gamaleya, El Gamaliya",
+        "place_city": "Cairo Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 30.0489502,
+            "lng": 31.2786261
+        }
+    },
+    {
+        "place_id": "24",
+        "place_name": "Sultan al-Mu'ayyad Mosque",
+        "place_address": "Al Shrakia, El-Darb El-Ahmar",
+        "place_city": "Cairo Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 30.0433407,
+            "lng": 31.2552474
+        }
+    },
+    {
+        "place_id": "25",
+        "place_name": "Al-Qadi Abdul Basit Mosque",
+        "place_address": "Al-Gamalia, Department of Gamalia",
+        "place_city": "Cairo Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 30.0434307,
+            "lng": 31.246601
+        }
+    },
+    {
+        "place_id": "26",
+        "place_name": "El Rouby Mosque",
+        "place_address": "Qesm Al Fayoum, Faiyum",
+        "place_city": "Faiyum Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 29.3078224,
+            "lng": 30.8407648
+        }
+    },
+    {
+        "place_id": "27",
+        "place_name": "Al-Matbouli Mosque",
+        "place_address": "Berket Al Hag, El Marg",
+        "place_city": "Cairo Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 30.1551922,
+            "lng": 31.3690449
+        }
+    },
+    {
+        "place_id": "28",
+        "place_name": "Ad-Demerdash Mosque",
+        "place_address": "El-Mohamady, Al Waili",
+        "place_city": "Cairo Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 30.075185,
+            "lng": 31.2685929
+        }
+    },
+    {
+        "place_id": "29",
+        "place_name": "Hassan Pasha Tahir",
+        "place_address": "Sekat Baraka Al Fel, El-Darb El-Ahmar, El-Sayeda Zainab",
+        "place_city": "Cairo Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 30.0323116,
+            "lng": 31.2408119
+        }
+    },
+    {
+        "place_id": "30",
+        "place_name": "Suleiman Agha Al Silahdar Mosque",
+        "place_address": "Haret Beregwan, El-Gamaleya, El Gamaliya",
+        "place_city": "Cairo Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 30.0524984,
+            "lng": 31.2596879
+        }
+    },
+    {
+        "place_id": "31",
+        "place_name": "Mosque of Muhammad Ali",
+        "place_address": "Al Abageyah, El-Khalifa",
+        "place_city": "Cairo Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 30.0287061,
+            "lng": 31.2577219
+        }
+    },
+    {
+        "place_id": "32",
+        "place_name": "Sheikh Hassan Al-Adawi Mosque in Cairo",
+        "place_address": "El-Gamaleya, El-Adawy, El Gamaliya",
+        "place_city": "Cairo Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 30.0520835,
+            "lng": 31.2549523
+        }
+    },
+    {
+        "place_id": "33",
+        "place_name": "Alhsafy mosque",
+        "place_address": "Al Mdafen - Al Hasafi, Naqraha, Damanhour",
+        "place_city": "El Beheira Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 31.0311711,
+            "lng": 30.4696154
+        }
+    },
+    {
+        "place_id": "34",
+        "place_name": "Gamal Eldin Al Afhghani Masjed",
+        "place_address": "Al Gamea Sq., El-Bostan, Heliopolis",
+        "place_city": "Cairo Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 30.0736652,
+            "lng": 31.2782918
+        }
+    },
+    {
+        "place_id": "35",
+        "place_name": "Sidi Ali Nur al-Din al-Bayoumi Mosqued",
+        "place_address": "El-Gamaleya, El Gamaliya",
+        "place_city": "Cairo Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 30.0595392,
+            "lng": 31.2637689
+        }
+    },
+    {
+        "place_id": "36",
+        "place_name": "Al-Hussain Mosque",
+        "place_address": "Al-Mashhad Al-Hussaini, Hasan El-Adawy",
+        "place_city": "Cairo Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 30.0446126,
+            "lng": 31.2632105
+        }
+    },
+    {
+        "place_id": "37",
+        "place_name": "Mosque of Abu El Fadl Al Waziri",
+        "place_address": "Abou El-Fadl, Al Mahalah Al Kubra (Part 2), El Mahalla El Kubra",
+        "place_city": "Gharbia Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 30.9699678,
+            "lng": 31.161485
+        }
+    },
+    {
+        "place_id": "38",
+        "place_name": "Madrasa and Mausoleum of al-Salih Najm al-Din Ayyub",
+        "place_address": "Al Moez Ldin Allah Al Fatmi, El-Gamaleya, El Gamaliya",
+        "place_city": "Cairo Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 30.049106,
+            "lng": 31.2590861
+        }
+    },
+    {
+        "place_id": "39",
+        "place_name": "Mosque and Madrasa Sanjar al-Jawli",
+        "place_address": "Tolon, El-Sayeda Zainab",
+        "place_city": "Cairo Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 30.0296681,
+            "lng": 31.2449611
+        }
+    },
+    {
+        "place_id": "40",
+        "place_name": "Salah Al-Din Al-Ayoubi Castle",
+        "place_address": "Salah Salem St, Al Abageyah, El-Khalifa",
+        "place_city": "Cairo Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 30.029691,
+            "lng": 31.238395
+        }
+    },
+    {
+        "place_id": "41",
+        "place_name": "The Egyptian Museum",
+        "place_address": "Marit Pasha Street, Tahrir Square",
+        "place_city": "Cairo Governorate",
+        "place_category": "Museum",
+        "place_geometry": {
+            "lat": 30.0475827,
+            "lng": 31.2314252
+        }
+    },
+    {
+        "place_id": "42",
+        "place_name": "The National Museum of Egyptian Civilization",
+        "place_address": "Ein as Seirah, Old Cairo",
+        "place_city": "Cairo Governorate",
+        "place_category": "Museum",
+        "place_geometry": {
+            "lat": 30.0081539,
+            "lng": 31.2460717
+        }
+    },
+    {
+        "place_id": "43",
+        "place_name": "Abdeen Palace Museum",
+        "place_address": "El-Gomhoreya Square, Rahbet Abdin, Abdeen",
+        "place_city": "Cairo Governorate",
+        "place_category": "Museum",
+        "place_geometry": {
+            "lat": 30.0422742,
+            "lng": 31.2463553
+        }
+    },
+    {
+        "place_id": "44",
+        "place_name": "Solar Khufu Ship Museum",
+        "place_address": "Nazlet El-Semman, Al Haram",
+        "place_city": "Giza Governorate",
+        "place_category": "Museum",
+        "place_geometry": {
+            "lat": 29.9779648,
+            "lng": 31.132418
+        }
+    },
+    {
+        "place_id": "45",
+        "place_name": "Egyptian Geology Museum",
+        "place_address": "Al Khokhah WA Al Qenayah, Old Cairo",
+        "place_city": "Cairo Governorate",
+        "place_category": "Museum",
+        "place_geometry": {
+            "lat": 29.9964031,
+            "lng": 31.2267065
+        }
+    },
+    {
+        "place_id": "46",
+        "place_name": "National Military Museum Egypt",
+        "place_address": "Salah Salem St, El-Khalifa",
+        "place_city": "Cairo Governorate",
+        "place_category": "Museum",
+        "place_geometry": {
+            "lat": 30.0308576,
+            "lng": 31.2603683
+        }
+    },
+    {
+        "place_id": "47",
+        "place_name": "Royal Chariots Museum",
+        "place_address": "Boulaq",
+        "place_city": "Cairo Governorate",
+        "place_category": "Museum",
+        "place_geometry": {
+            "lat": 30.0558515,
+            "lng": 31.2224492
+        }
+    },
+    {
+        "place_id": "48",
+        "place_name": "The Coptic Museum",
+        "place_address": "3 Mari Gerges, Kom Ghorab, Old Cairo",
+        "place_city": "Cairo Governorate",
+        "place_category": "Museum",
+        "place_geometry": {
+            "lat": 30.0056082,
+            "lng": 31.2279278
+        }
+    },
+    {
+        "place_id": "49",
+        "place_name": "The Child Museum",
+        "place_address": "34 Abou Bakr El-Sedeek, El-Bostan, Heliopolis",
+        "place_city": "Cairo Governorate",
+        "place_category": "Museum",
+        "place_geometry": {
+            "lat": 30.1022427,
+            "lng": 31.3347573
+        }
+    },
+    {
+        "place_id": "50",
+        "place_name": "Marzouk Egyptian Souvlaki",
+        "place_address": "Al Mathaf Al Zerai, Ad Doqi, Dokki",
+        "place_city": "Giza Governorate",
+        "place_category": "Museum",
+        "place_geometry": {
+            "lat": 30.0455984,
+            "lng": 31.2090485
+        }
+    },
+    {
+        "place_id": "51",
+        "place_name": "Museum of Islamic Art",
+        "place_address": "Port Said, St، El-Darb El-Ahmar, ",
+        "place_city": "Cairo Governorate",
+        "place_category": "Museum",
+        "place_geometry": {
+            "lat": 30.0444085,
+            "lng": 31.2501631
+        }
+    },
+    {
+        "place_id": "52",
+        "place_name": "Museum Of Modern Egyptian Art",
+        "place_address": "Zamalek",
+        "place_city": "Cairo Governorate",
+        "place_category": "Museum",
+        "place_geometry": {
+            "lat": 30.0436911,
+            "lng": 31.2224581
+        }
+    },
+    {
+        "place_id": "53",
+        "place_name": "Science Museum",
+        "place_address": "3 Sohag, Al Hay as Sabea, Al Waili",
+        "place_city": "Cairo Governorate",
+        "place_category": "Museum",
+        "place_geometry": {
+            "lat": 30.0516792,
+            "lng": 31.2479012
+        }
+    },
+    {
+        "place_id": "54",
+        "place_name": "Geographical Association of Egypt",
+        "place_address": "109 Al Qasr Al Aini Street, Entrance to Parliament",
+        "place_city": "Cairo Governorate",
+        "place_category": "Museum",
+        "place_geometry": {
+            "lat": 30.0411236,
+            "lng": 31.2338586
+        }
+    },
+    {
+        "place_id": "55",
+        "place_name": "Wax Museum in Helwan",
+        "place_address": "Mansour, Helwan",
+        "place_city": "Cairo Governorate",
+        "place_category": "Museum",
+        "place_geometry": {
+            "lat": 29.860134,
+            "lng": 31.3239235
+        }
+    },
+    {
+        "place_id": "56",
+        "place_name": "Qasr Al Ain medical school museum",
+        "place_address": "Old Cairo",
+        "place_city": "Giza Governorate",
+        "place_category": "Museum",
+        "place_geometry": {
+            "lat": 30.0445496,
+            "lng": 31.1656718
+        }
+    },
+    {
+        "place_id": "57",
+        "place_name": "Nation's House Museum",
+        "place_address": "2 Saad Zaghloul, Al Inshaa WA Al Munirah, El-Sayeda Zainab",
+        "place_city": "Cairo Governorate",
+        "place_category": "Museum",
+        "place_geometry": {
+            "lat": 30.0381149,
+            "lng": 31.2352862
+        }
+    },
+    {
+        "place_id": "58",
+        "place_name": "Islamic Ceramics Museum",
+        "place_address": "1 Al Sheikh Al Marsafi, Omar Al Khayam, Zamalek",
+        "place_city": "Cairo Governorate",
+        "place_category": "Museum",
+        "place_geometry": {
+            "lat": 30.0571787,
+            "lng": 31.2204594
+        }
+    },
+    {
+        "place_id": "59",
+        "place_name": "Al-Suhaimi House Museum",
+        "place_address": "Branching from, Al-Darb Al-Asfar Lane, Al Moez Ldin Allah Al Fatmi",
+        "place_city": "Cairo Governorate",
+        "place_category": "Museum",
+        "place_geometry": {
+            "lat": 30.0520845,
+            "lng": 31.2601152
+        }
+    },
+    {
+        "place_id": "60",
+        "place_name": "Egyptian Railway Museum",
+        "place_address": "Ramses, Al Fagalah, Al Azbakeya",
+        "place_city": "Cairo Governorate",
+        "place_category": "Museum",
+        "place_geometry": {
+            "lat": 30.0634932,
+            "lng": 31.2462799
+        }
+    },
+    {
+        "place_id": "61",
+        "place_name": "Prince Mohamed Ali Palace (Al Manial Palace)",
+        "place_address": "1 Saraya, Old Cairo",
+        "place_city": "Cairo Governorate",
+        "place_category": "Museum",
+        "place_geometry": {
+            "lat": 30.0289553,
+            "lng": 31.2278243
+        }
+    },
+    {
+        "place_id": "62",
+        "place_name": "The Grand Egyptian Museum",
+        "place_address": "Cairo - Alexandria Desert Rd, Kafr Nassar, Al Haram",
+        "place_city": "Giza Governorate",
+        "place_category": "Museum",
+        "place_geometry": {
+            "lat": 29.9942361,
+            "lng": 31.1165584
+        }
+    },
+    {
+        "place_id": "63",
+        "place_name": "Karmet Ibn Hanie Cultural Center Ahmed Shawky Museum",
+        "place_address": "6 Ahmed Shawky st. , off Murad st. , in front of Giza Zoo , Kournish El-Nil",
+        "place_city": "Giza Governorate",
+        "place_category": "Museum",
+        "place_geometry": {
+            "lat": 30.0212671,
+            "lng": 31.2152454
+        }
+    },
+    {
+        "place_id": "64",
+        "place_name": "Mohamed Mahmoud Khalil Museum",
+        "place_address": "1 Kafor, Ad Doqi A, Giza Governorate",
+        "place_city": "Giza Governorate",
+        "place_category": "Museum",
+        "place_geometry": {
+            "lat": 30.0356011,
+            "lng": 31.2173982
+        }
+    },
+    {
+        "place_id": "65",
+        "place_name": "Greco-Roman Museum",
+        "place_address": "Al Mesallah Sharq, Al Attarin",
+        "place_city": "Alexandria Governorate",
+        "place_category": "Museum",
+        "place_geometry": {
+            "lat": 30.0356011,
+            "lng": 29.9043667
+        }
+    },
+    {
+        "place_id": "66",
+        "place_name": "Montaza Palace",
+        "place_address": "Al Mandarah Bahri, Montaza 2",
+        "place_city": "Alexandria Governorate",
+        "place_category": "Museum",
+        "place_geometry": {
+            "lat": 31.2885,
+            "lng": 30.0137805
+        }
+    },
+    {
+        "place_id": "67",
+        "place_name": "Alexandria Aquarium",
+        "place_address": "As Sayalah Sharq, Qesm Al Gomrok",
+        "place_city": "Alexandria Governorate",
+        "place_category": "Museum",
+        "place_geometry": {
+            "lat": 31.213044,
+            "lng": 29.8829098
+        }
+    },
+    {
+        "place_id": "68",
+        "place_name": "Alexandria National Museum",
+        "place_address": "131 El-Shaheed Galal El-Desouky, Bab Sharqi WA Wabour Al Meyah, Qism Bab Sharq",
+        "place_city": "Alexandria Governorate",
+        "place_category": "Museum",
+        "place_geometry": {
+            "lat": 31.2007461,
+            "lng": 29.911009
+        }
+    },
+    {
+        "place_id": "69",
+        "place_name": "Royal Jewellery Museum",
+        "place_address": "27 San Stifano, First Al Raml",
+        "place_city": "Alexandria Governorate",
+        "place_category": "Museum",
+        "place_geometry": {
+            "lat": 31.2406142,
+            "lng": 29.9610961
+        }
+    },
+    {
+        "place_id": "70",
+        "place_name": "Nubian Museum",
+        "place_address": "Assuan, Sheyakhah Oula, Qism Aswan",
+        "place_city": "Aswan Governorate",
+        "place_category": "Museum",
+        "place_geometry": {
+            "lat": 24.0794298,
+            "lng": 32.8869862
+        }
+    },
+    {
+        "place_id": "71",
+        "place_name": "The Great Pyramid of Giza",
+        "place_address": "Al Haram, Nazlet El-Semman, Al Giza Desert",
+        "place_city": "Giza Governorate",
+        "place_category": "Pharaonic",
+        "place_geometry": {
+            "lat": 29.97827,
+            "lng": 31.13116
+        }
+    },
+    {
+        "place_id": "72",
+        "place_name": "Karnak Temple",
+        "place_address": "Karnak, Luxor",
+        "place_city": "Luxor Governorate",
+        "place_category": "Pharaonic",
+        "place_geometry": {
+            "lat": 25.7188394,
+            "lng": 32.6550816
+        }
+    },
+    {
+        "place_id": "73",
+        "place_name": "Valley of the Kings",
+        "place_address": "Luxor",
+        "place_city": "Luxor Governorate",
+        "place_category": "Pharaonic",
+        "place_geometry": {
+            "lat": 25.7425897,
+            "lng": 32.5972163
+        }
+    },
+    {
+        "place_id": "74",
+        "place_name": "Ramsis Temple",
+        "place_address": "Abu Simbel",
+        "place_city": "Aswan Governorate",
+        "place_category": "Pharaonic",
+        "place_geometry": {
+            "lat": 22.3780381,
+            "lng": 31.5703127
+        }
+    },
+    {
+        "place_id": "75",
+        "place_name": "Nefertari Temple",
+        "place_address": "Abu Simbel",
+        "place_city": "Aswan Governorate",
+        "place_category": "Pharaonic",
+        "place_geometry": {
+            "lat": 22.3780384,
+            "lng": 31.5703128
+        }
+    },
+    {
+        "place_id": "76",
+        "place_name": "Temple of Seti",
+        "place_address": "Markaz Al Belina",
+        "place_city": "Sohag Governorate",
+        "place_category": "Pharaonic",
+        "place_geometry": {
+            "lat": 26.1840498,
+            "lng": 31.9124978
+        }
+    },
+    {
+        "place_id": "77",
+        "place_name": "Osireion",
+        "place_address": "Arabet Abeidos, Kharga",
+        "place_city": "New Valley Governorate",
+        "place_category": "Pharaonic",
+        "place_geometry": {
+            "lat": 26.1840498,
+            "lng": 31.9124978
+        }
+    },
+    {
+        "place_id": "78",
+        "place_name": "Pyramid of Djoser",
+        "place_address": "Al Giza Desert, Giza",
+        "place_city": "Giza Governorate",
+        "place_category": "Pharaonic",
+        "place_geometry": {
+            "lat": 29.9522216,
+            "lng": 31.1367609
+        }
+    },
+    {
+        "place_id": "79",
+        "place_name": "Mastaba de Mereruka",
+        "place_address": "Saqarah, Al Badrashin",
+        "place_city": "Giza Governorate",
+        "place_category": "Pharaonic",
+        "place_geometry": {
+            "lat": 29.8633697,
+            "lng": 31.1604543
+        }
+    },
+    {
+        "place_id": "80",
+        "place_name": "Mit Rahina Museum",
+        "place_address": "Mit Rahinah, Al Badrashin",
+        "place_city": "Giza Governorate",
+        "place_category": "Pharaonic",
+        "place_geometry": {
+            "lat": 29.8494722,
+            "lng": 31.2521359
+        }
+    },
+    {
+        "place_id": "81",
+        "place_name": "Pyramid of Sahure",
+        "place_address": "Abusir, Al Badrashin",
+        "place_city": "Giza Governorate",
+        "place_category": "Pharaonic",
+        "place_geometry": {
+            "lat": 29.8495467,
+            "lng": 31.2193052
+        }
+    },
+    {
+        "place_id": "82",
+        "place_name": "Pyramid of Neferefre",
+        "place_address": "Abusir, Al Badrashin",
+        "place_city": "Giza Governorate",
+        "place_category": "Pharaonic",
+        "place_geometry": {
+            "lat": 29.8495467,
+            "lng": 31.2193052
+        }
+    },
+    {
+        "place_id": "83",
+        "place_name": "Colossi of Memnon",
+        "place_address": "Al Bairat, Luxor",
+        "place_city": "Luxor Governorate",
+        "place_category": "Pharaonic",
+        "place_geometry": {
+            "lat": 25.7206023,
+            "lng": 32.6082669
+        }
+    },
+    {
+        "place_id": "84",
+        "place_name": "Mortuary Temple of Hatshepsut",
+        "place_address": "Kings Valley Rd",
+        "place_city": "Luxor Governorate",
+        "place_category": "Pharaonic",
+        "place_geometry": {
+            "lat": 25.7360184,
+            "lng": 32.6066705
+        }
+    },
+    {
+        "place_id": "85",
+        "place_name": "Dendera Temple Complex",
+        "place_address": "Qism Qena, Qena",
+        "place_city": "Qena Governorate",
+        "place_category": "Pharaonic",
+        "place_geometry": {
+            "lat": 26.1419465,
+            "lng": 32.6614356
+        }
+    },
+    {
+        "place_id": "86",
+        "place_name": "Dendera Temple Complex",
+        "place_address": "Qism Qena, Qena",
+        "place_city": "Qena Governorate",
+        "place_category": "Pharaonic",
+        "place_geometry": {
+            "lat": 26.1419465,
+            "lng": 32.6614356
+        }
+    },
+    {
+        "place_id": "87",
+        "place_name": "The Temple Of Medinet Habu",
+        "place_address": "Al Bairat, Al Qarna",
+        "place_city": "Luxor Governorate",
+        "place_category": "Pharaonic",
+        "place_geometry": {
+            "lat": 25.7193179,
+            "lng": 32.5991514
+        }
+    },
+    {
+        "place_id": "88",
+        "place_name": "Tombs of the Nobles",
+        "place_address": "Luxor",
+        "place_city": "Luxor Governorate",
+        "place_category": "Pharaonic",
+        "place_geometry": {
+            "lat": 25.7307557,
+            "lng": 32.607151
+        }
+    },
+    {
+        "place_id": "89",
+        "place_name": "Temple of Kom Ombo",
+        "place_address": "Nagoa Ash Shatb, Markaz Kom Ombo",
+        "place_city": "Aswan Governorate",
+        "place_category": "Pharaonic",
+        "place_geometry": {
+            "lat": 24.4521381,
+            "lng": 32.9262432
+        }
+    },
+    {
+        "place_id": "90",
+        "place_name": "The Temple of Horus at Edfu",
+        "place_address": "Adfo, Edfo",
+        "place_city": "Aswan Governorate",
+        "place_category": "Pharaonic",
+        "place_geometry": {
+            "lat": 24.7152778,
+            "lng": 32.7608173
+        }
+    },
+    {
+        "place_id": "91",
+        "place_name": "Unfinished Obelisk",
+        "place_address": "Sheyakhah Oula, Qism Aswan",
+        "place_city": "Aswan Governorate",
+        "place_category": "Pharaonic",
+        "place_geometry": {
+            "lat": 24.0769049,
+            "lng": 32.8932613
+        }
+    },
+    {
+        "place_id": "92",
+        "place_name": "Temple of Isis",
+        "place_address": "Agilkia Island, Qism Aswan",
+        "place_city": "Aswan Governorate",
+        "place_category": "Pharaonic",
+        "place_geometry": {
+            "lat": 24.0207932,
+            "lng": 32.8706293
+        }
+    },
+    {
+        "place_id": "93",
+        "place_name": "Famine Stela",
+        "place_address": "Sheyakhah Thaneyah, Qism Aswan",
+        "place_city": "Aswan Governorate",
+        "place_category": "Pharaonic",
+        "place_geometry": {
+            "lat": 24.0557894,
+            "lng": 32.8770343
+        }
+    },
+    {
+        "place_id": "94",
+        "place_name": "Aga Khan Mausoleum",
+        "place_address": "Sheyakhah Oula, Qism Aswan",
+        "place_city": "Aswan Governorate",
+        "place_category": "Islamic",
+        "place_geometry": {
+            "lat": 24.0802832,
+            "lng": 32.8871613
+        }
+    },
+    {
+        "place_id": "95",
+        "place_name": "The Hanging Church",
+        "place_address": "Kom Ghorab, Old Cairo",
+        "place_city": "Cairo Governorate",
+        "place_category": "Christian",
+        "place_geometry": {
+            "lat": 30.0052709,
+            "lng": 31.2279939
+        }
+    },
+    {
+        "place_id": "96",
+        "place_name": "Saint Catherine's Monastery",
+        "place_address": "Saint Catherine",
+        "place_city": "South Sinai Governorate",
+        "place_category": "Christian",
+        "place_geometry": {
+            "lat": 28.5559531,
+            "lng": 33.9738593
+        }
+    },
+    {
+        "place_id": "97",
+        "place_name": "St. George's church",
+        "place_address": "Mar Gerges, Kom Ghorab, Ancient Egypt",
+        "place_city": "Cairo Governorate",
+        "place_category": "Christian",
+        "place_geometry": {
+            "lat": 30.0416045,
+            "lng": 31.2045549
+        }
+    },
+    {
+        "place_id": "98",
+        "place_name": "St Sergius and St Bacchus Church",
+        "place_address": "Mari Gerges, Kom Ghorab, Old Cairo",
+        "place_city": "Cairo Governorate",
+        "place_category": "Christian",
+        "place_geometry": {
+            "lat": 30.0062836,
+            "lng": 31.228486
+        }
+    },
+    {
+        "place_id": "99",
+        "place_name": "Our Lady of Heliopolis Co-Cathedral",
+        "place_address": "Nazih Khalifa crossroad، Al Ahram, Heliopolis",
+        "place_city": "Cairo Governorate",
+        "place_category": "Christian",
+        "place_geometry": {
+            "lat": 30.0935753,
+            "lng": 31.3229941
+        }
+    },
+    {
+        "place_id": "100",
+        "place_name": "White Monastery",
+        "place_address": "Nagaa Al Dear Al Abied Al Bahri - Nagaa Hamed, ADFA, Sohag",
+        "place_city": "Sohag Governorate",
+        "place_category": "Christian",
+        "place_geometry": {
+            "lat": 26.5343836,
+            "lng": 31.6443995
+        }
+    },
+    {
+        "place_id": "101",
+        "place_name": "The Red Monastery",
+        "place_address": "Monastery of Anba Begoul and Anba Beshay, Adva, Sohag Center",
+        "place_city": "Sohag Governorate",
+        "place_category": "Christian",
+        "place_geometry": {
+            "lat": 26.5550718,
+            "lng": 31.6171343
+        }
+    }
+]
